@@ -39,6 +39,7 @@
 - Adam
 
 ## Results
-
+![loss_graph](https://github.com/Basars/classification/blob/main/static/loss.png) ![acc_graph](https://github.com/Basars/classification/blob/main/static/acc.png)
 
 ### Evaluation
+![performance](https://github.com/Basars/classification/blob/main/static/performance.png)
