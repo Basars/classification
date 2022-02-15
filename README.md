@@ -5,7 +5,7 @@
 **Input shape**: (224, 224, 3)<br>
 **Encoder trainable**: False<br>
 **Batch size**: 32<br>
-**Epochs**: 150
+**Epochs**: 533
 
 ## Model
 **Input Image (224, 224, 3)** → resnet50 (224, 224, 32) → **Result (4)**
